@@ -8,7 +8,7 @@ In this module, we will learn how to use MATLAB to analyze genetic data. We will
 
 This module utilizes data pulled from [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), the NIH's library of publicly available genetic sequences. 
 
-!<img src="images/640px-Bdna_cropped.gif" width=25% height=25%>
+<img src="images/640px-Bdna_cropped.gif" width=25% height=25%>
 
 [A 3-dimensional model of DNA](https://commons.wikimedia.org/wiki/File:Bdna_cropped.gif)
 
