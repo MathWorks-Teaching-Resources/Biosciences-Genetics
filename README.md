@@ -27,20 +27,20 @@ To learn more about opening and using MATLAB, see the accompanying [Getting Star
 Notes: These scripts can all be run independently, though we recommend going through these live scripts in order. These live scripts are intended to be used with output inline. To change the output, go to the View tab of the toolstrip, and select ![](images/outputinline.png)  Output Inline. 
 The scripts have areas for the students to interact with the code ![](images/try.png) . There will also be exercises ![](images/exercise.png)  in most scripts and the answers will be provided at the end.  A problem set for students to practice these concepts is also included here. Throughout the scripts, there are also moments to students to reflect on what they've learned or on what the data means ![](images/reflect.png) . Particularly interesting examples of how these concepts are used in "real-world" biology are also pointed out ![](images/app.png).
 
-[Introduction](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S1_Introduction.mlx)
+[Introduction](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S1_Introduction.mlx)
 - Learning objective: Students will learn about how computation is used in genetics. 
 
-[Explore a single DNA sequence](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S2_Single_seq.mlx)
+[Explore a single DNA sequence](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S2_Single_seq.mlx)
 - Learning objective: Students will learn to import and analyze DNA sequences in MATLAB, and visualize nucleotide content. 
 
-[Comparative genetics](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S3_Comparative_genetics.mlx)
+[Comparative genetics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S3_Comparative_genetics.mlx)
 - Learning objective: Students will calculate genetic distances between species, visualize genetic distance using phylogenetic trees, and use the data to interpret evolutionary relationships. 
 
-[Population genetics](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S4_Population_genetics.mlx)
+[Population genetics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S4_Population_genetics.mlx)
 - Learning objective: Students will visualize genetic differences within a population using dimensionality reduction. 
 
-[Problem set](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S5_Problem_set.mlx)
-- [Problem set answers](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S6_Problem_set_answers.mlx)
+[Problem set](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S5_Problem_set.mlx)
+- [Problem set answers](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-genetics&file=S6_Problem_set_answers.mlx)
 
 ## Related Courseware Modules
 
