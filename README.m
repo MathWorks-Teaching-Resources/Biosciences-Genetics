@@ -69,7 +69,7 @@
 %[text] %[text:anchor:H_0FA5DA18] ## Contribute 
 %[text] Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](file:CONTRIBUTING.md) page.
 %[text] ## License
-%[text] The license for this project is in the [LICENSE.md](http://license.md) file in this repository.
+%[text] The license for this project is in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Biosciences-Genetics/blob/release/LICENSE.md) file in this repository.
 %%
 %[text] ## Help us Improve
 %[text] [Share your feedback](<matlab: ShareFeedback>) to help us improve this module.

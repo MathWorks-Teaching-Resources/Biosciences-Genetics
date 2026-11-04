@@ -130,7 +130,7 @@ Looking for more? Find an issue? Have a suggestion? Please contact the [MathWork
 
 # License
 
-The license for this project is in the [LICENSE.md](http://license.md) file in this repository.
+The license for this project is in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Biosciences-Genetics/blob/release/LICENSE.md) file in this repository.
 
 # Help us Improve
 
